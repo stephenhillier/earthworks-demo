@@ -1,7 +1,4 @@
-# Earthworks PM
-A geotechnical data management platform for engineers
-
-This repository contains both the API server and the frontend website for Earthworks PM.
+![Earthworks PM](./epm.png)
 
 ## Installation requirements
 * **Python 3**, with ability to create virtual environments
