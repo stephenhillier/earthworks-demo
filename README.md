@@ -12,10 +12,10 @@ The PostgreSQL database and API server (based on Django) is currently hosted at 
 
 ### Technologies and frameworks:
 #### Backend API
-* OS: Linux (earthworksqc.com uses Ubuntu)
+* OS: Linux (earthworksqc.com uses Ubuntu 16.04 LTS)
 * Server: nginx (reverse proxy), gunicorn (wsgi app server)
-* API/backend: Django, Django REST Framework
-* Database: PostgreSQL with PostGIS extension
+* API/backend: Python 3, Django 1.11, Django REST Framework
+* Database: PostgreSQL 9.5 with PostGIS extension (also works with PostgreSQL 10.1)
 #### Frontend web app
 * Framework: Vue.JS
 * UI component library: Vuetify
